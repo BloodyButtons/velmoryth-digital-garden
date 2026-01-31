@@ -5,12 +5,9 @@
 
 ---
 
-<center>THE TRAVELER'S GUIDE TO VELMORYRTH</center>
+<center>THE TRAVELER'S GUIDE TO VELMORYTH</center>
 
 --- 
-
-
-
 
 Welcome to the Traveler's Guide to Velmoryth, an evolving guidebook and sourcebook to a game that does not exist. This is an ongoing personal project that's been in development for at least one entire year at the time of writing. What you have opened is a compendium of knowledge and art about the universe and the mechanics of the dream. If you have access to this site, you are free to use whatever you find here as long as you pay tribute in some way. That could be an easter egg, or outright credits, or something of the like. Or you might not. Up to you.
 
